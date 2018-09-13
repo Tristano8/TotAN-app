@@ -1,0 +1,132 @@
+Grovel
+Aid
+Rob
+Avoid
+Converse
+Attack
+Court
+Abduct
+Honor
+
+Grovel
+Aid
+Rob
+Avoid
+Bargain
+Attack
+Court
+Trick
+Hire
+
+Beat
+Enrich
+Rob
+Avoid
+Question
+Attack
+Follow
+Hire
+
+Punish
+Aid
+Rob
+Question
+Attack
+Abduct
+Buy (slave)
+Hire
+
+Examine
+Take
+Use
+Open
+Avoid
+Sneak
+Hire Help
+Enter
+
+Pray
+Avoid
+Wait
+Cry Out
+Drink
+Examine
+Travel
+Hide
+
+Pray for guidance
+Wait for help
+Cry out for help
+Examine surroundings
+Set forth
+Hide safely
+
+Grovel
+Converse
+Trick
+Bargain
+Attack
+Flee
+Avoid
+
+Honor
+Attack
+Avoid
+Aid
+Rob
+Follow
+Question
+Pray
+
+Pray
+Study
+Capture
+Attack
+Follow
+Aid
+Seek aid
+Hide
+
+Grovel
+Honor
+Bribe
+Converse
+Trick
+Attack
+Attempt to escape
+Wait
+
+Attack
+Aid
+Rob
+Avoid
+Barter
+Honor
+Court
+Abduct
+Hire
+
+Grovel
+Aid
+Avoid
+Bargain
+Attack
+Trick
+
+Avoid
+Pray
+Attack
+Bargain
+Examine
+Enter
+Seek aid
+Aid
+
+Grovel
+Aid
+Avoid
+Bargain
+Attack
+Trick
+Hire
+

@@ -1,0 +1,1471 @@
+Rock Slide	F
+Rock Slide	F
+Bloodthirsty Brigands	I
+Lonely Prince	A
+Mystic Fire	F
+Minor Treasure	E
+Strange Artifact	E
+Terrible Storm	F
+Terrible Storm	F
+Ghostly Beast	J
+Ghostly Beast	J
+All-Powerful ‘Efreet	M
+
+Disguised Beggar	C
+Disguised Maiden	L
+Greedy Captain	I
+Terrible Storm	F
+Malicious Merman	I
+Treacherous Shoals	F
+Fearful Captain	I
+Fearful Captain	I
+Crafty Wizard	O
+Beautiful Enchantress	O
+Huge Whirlpool	F
+Huge Whirlpool	F
+
+Greedy Ne’er-do-well	D
+Lovesick Maiden	L
+Bloodthirsty Brigands	I
+Destitute Prophet	A
+Sand Storm	F
+Hungry Creatures	J
+Egg of Roc	J
+Jeweled Trapdoor	E
+Dark River	F
+Cold Wizard	O
+Ancient City	E
+Ancient City	E
+
+Lost Merchant	L
+Wicked Hag	C
+Mad Slave	D
+Friendly Merman	I
+Mild Storm	F
+Malicious Merman	I
+Malicious Merman	I
+Fearful Captain	I
+Beautiful Shoals	F
+Treacherous Shoals	F
+Mad Captain	I
+Terrible Storm	F
+
+Talking Beast	J
+Friendly Hunchback	C
+Wealthy Ne’er-do-well	D
+Enchanted Maiden	L
+Sad Gooleh	I
+Hungry Gooleh	I
+Dark River	F
+Enchanted Beast	J
+Secret Trapdoor	E
+Mystic Fire	F
+Talking Beast	J
+Ancient City	E
+
+Hideous Beggar	C
+Cheating Merchant	L
+Skillful Thief	D
+Doomsaying Prophet	A
+Fine Beast	J
+Beautiful Princess	A
+House Fire	F
+Mighty Wizard	O
+Bloodthirsty Brigands	I
+Mysterious Trapdoor	E
+Strange Artifact	E
+Ruined City	E
+
+Destitute Merchant	L
+Armed Thief	D
+Mild Storm	F
+Rock Slide	F
+Sad Gooleh	I
+Bloodthirsty Brigands	I
+Secret Trapdoor	E
+Horrible Creatures	J
+Mysterious Trapdoor	E
+Magical Storm	F
+Ruined City	E
+Demonic ‘Efreet	M
+
+Mild Storm	F
+Beautiful Shoals	F
+Beautiful Shoals	F
+Greedy Captain	I
+Greedy Captain	I
+Minor Treasure	E
+Huge Whirlpool	F
+Black Whirlpool	F
+Malicious Merman	I
+Mad Captain	I
+Friendly Merman	I
+Black Whirlpool	F
+
+Dying Hag	C
+Wealthy Merchant	L
+Multitudinous Brigands	I
+Sand Storm	F
+Unknown Beast	J
+Old Man	I
+Multitudinous Brigands	I
+Hungry Creatures	J
+Sand Storm	F
+Horrible Creatures	J
+Mighty Wizard	O
+Wonderful Artifact	E
+
+Old Man	I
+Diseased Hunchback	C
+Mad Prophet	A
+Powerful Dervish	L
+Malicious Merman	I
+Strange Customs	I
+Beautiful Shoals	F
+Talking Beast	J
+Mysterious River	F
+Terrible Storm	F
+Ruined City	E
+Wonderful Artifact	E
+
+Foolish Slave	D
+Ugly Beggar	C
+Whirling Dervish	L
+Mild Storm	F
+Merry Brigands	I
+Dark River	F
+Enchanted Beast	J
+Dark Creatures	J
+Ghostly Beast	J
+Glittering Artifact	E
+Hidden City	E
+Wonderful Artifact	E
+
+Lovesick Thief	D
+Blind Man	I
+Garrulous Soldier	L
+House Fire	F
+Possessed Hunchback	C
+Minor Treasure	E
+Con Game	I
+Trapped ‘Efreet	M
+Unknown Beast	J
+Mystic Fire	F
+Strange Artifact	E
+Wonderful Artifact	E
+
+Disguised Soldier	L
+Runaway Slave	D
+Mad Sage	A
+Mild Storm	F
+Mild Storm	F
+Mystic Fire	F
+Magical Storm	F
+Old Man	I
+Flying Creatures	J
+Fabulous Treasure	E
+Fabulous Treasure	E
+Wonderful Artifact	E
+
+Repentant Thief	D
+Imprisoned Maiden	L
+Mad Prophet	A
+Mild Storm	F
+Malicious Merman	I
+Fearful Captain	I
+Glittering Artifact	E
+Enchanted Beast	J
+Treacherous Shoals	F
+Mad Captain	I
+Terrible Storm	F
+Fabulous Treasure	E
+
+Blind Man	I
+Strange Customs	I
+Sand Storm	F
+Unknown Beast	J
+Hungry Gooleh	I
+Minor Treasure	E
+Talking Beast	J
+Talking Beast	J
+Enchanted Beast	J
+Bloodthirsty Enchantress	O
+Mighty Wizard	O
+Beautiful ‘Efreeteh	M
+
+Destitute Beggar	C
+Destitute Ne’er-do-well	D
+Lonely Maiden	L
+Mild Storm	F
+Beautiful Shoals	F
+Treacherous Shoals	F
+Unknown Beast	J
+Greedy Captain	I
+Mysterious River	F
+Malicious Merman	I
+Ancient City	E
+Wonderful Artifact	E
+
+Garrulous Merchant	L
+Lost Sage	A
+Foolish Ne’er-do-well	D
+Hideous Hunchback	C
+Mild Storm	F
+Ghostly Beast	J
+Dark Creatures	J
+Dark River	F
+Magical Storm	F
+Small Artifact	E
+Jeweled Trapdoor	E
+Wonderful Artifact	E
+
+Impudent Hag	C
+Cheating Merchant	L
+Old Man	I
+Armed Thief	D
+Strange Customs	I
+Con Game	I
+Mystic Fire	F
+Hungry Creatures	J
+Enchanted Beast	J
+Secret Trapdoor	E
+Ruined City	E
+Wonderful Artifact	E
+
+Foolish Ne'er-do-well	D
+Mad Soldier	L
+Dying Beggar	C
+Doomsaying Prophet	A
+Rock Slide	F
+Sad Gooleh	I
+Multitudinous Brigands	I
+Dark River	F
+Horrible Creatures	J
+Talking Beast	J
+Jeweled Trapdoor	E
+Hidden City	E
+
+Disguised Dervish	L
+Mild Storm	F
+Skillful Thief	D
+Insane Hunchback	C
+Friendly Merman	I
+Fearful Captain	I
+Black Whirlpool	F
+Glittering Artifact	E
+Huge Whirlpool	F
+Mad Captain	I
+Small Artifact	E
+Terrible Storm	F
+
+Diseased Hag	C
+Whirling Dervish	L
+Bloodthirsty Brigands	I
+Destitute Prince	A
+Hungry Gooleh	I
+Sand Storm	F
+Flying Creatures	J
+Mighty Enchantress	O
+Learned ‘Efreet	M
+Mysterious Trapdoor	E
+Jeweled Trapdoor	E
+Wonderful Artifact	E
+
+Lovesick Ne’er-do-well	D
+Needy Thief	D
+Friendly Hag	C
+Strange Customs	I
+Beautiful Princess	A
+Wicked Vizier	I
+Guarded Treasure	E
+Guarded Treasure	E
+Crafty Wizard	O
+Beautiful Enchantress	O
+Angry ‘Efreeteh	M
+Angry ‘Efreeteh	M
+
+Toothless Hunchback	C
+Terrible Storm	F
+Lonely Prophet	A
+Vengeful Soldier	L
+Small Artifact	E
+Merry Brigands	I
+Hungry Gooleh	I
+Mysterious River	F
+Practical Joker Wizard	O
+Strange Artifact	E
+Ghostly Beast	J
+Fabulous Treasure	E
+
+Hideous Beggar	C
+Beautiful Maiden	L
+Blind Man	I
+Wise Sage	A
+House Fire	F
+Con Game	I
+Strange Customs	I
+Magical Storm	F
+Crafty Enchantress	O
+Wicked Vizier	I
+Secret Trapdoor	E
+Wonderful Artifact	E
+
+Needy Ne'er-do-well	D
+False Prophet	A
+Dying Hag	C
+Imprisoned Maiden	L
+Hungry Gooleh	I
+Mystic Fire	F
+Secret Trapdoor	E
+Flying Creatures	J
+Mysterious River	F
+Talking Beast	J
+Terrible Storm	F
+Wonderful Artifact	E
+
+Runaway Ne’er-do-well	D
+Handsome Soldier	L
+Lost Sage	A
+Lovesick Hag	C
+Friendly Merman	I
+Beautiful Shoals	F
+Treacherous Shoals	F
+Malicious Merman	I
+Malicious Merman	I
+Dark Creatures	J
+Black Whirlpool	F
+Black Whirlpool	F
+
+Garrulous Sage	A
+Drunken Beggar	C
+Mad Thief	D
+Friendly Maiden	L
+Sand Storm	F
+Merry Brigands	I
+Mysterious River	F
+Hungry Creatures	J
+Merry Brigands	I
+Egg of Roc	J
+Small Artifact	E
+Wonderful Artifact	E
+
+Impudent Hunchback	C
+Drunken Ne’er-do-well	D
+Old Man	I
+Wicked Dervish	L
+Mild Storm	F
+Small Artifact	E
+Greedy Captain	I
+Ruined City	E
+Magical Storm	F
+Mad Captain	I
+Malicious Merman	I
+Treacherous Shoals	F
+
+Cheating Merchant	L
+Cheating Merchant	L
+Unknown Beast	J
+Minor Treasure	E
+Minor Treasure	E
+Small Artifact	E
+Guarded Treasure	E
+Mad Enchantress	O
+Mad Enchantress	O
+Learned ‘Efreeteh	M
+Noble ‘Efreet	M
+Noble ‘Efreet	M
+
+Runaway Ne’er-do-well	D
+Drunken Hunchback	C
+Con Game	I
+House Fire	F
+Lovesick Prince	A
+Strange Customs	I
+Bloodthirsty Brigands	I
+Talking Beast	J
+All-Powerful ‘Efreeteh	M
+Secret Trapdoor	E
+Guarded Treasure	E
+Wonderful Artifact	E
+
+Drunken Hag	C
+Lost Merchant	L
+Repentant Thief	D
+Blind Man	I
+Merry Brigands	I
+Mysterious Trapdoor	E
+Dark River	F
+Egg of Roc	J
+Minor Treasure	E
+Talking Beast	J
+Terrible Storm	F
+Guarded Treasure	E
+
+Adulterous Slave	D
+Lovesick Beggar	C
+Mild Storm F																																																																																																																																					�����������																																																																																																																																																																																																																																																																																		g of Roc	J
+Sand Storm	F
+Sand Storm	F
+Strange Artifact	E
+
+Ugly Hag	C
+Friendly Soldier	L
+Destitute Thief	D
+Beautiful Shoals	F
+Fearful Captain	I
+Strange Customs	I
+Strange Customs	I
+Mad Wizard	O
+Treacherous Shoals	F
+Mysterious River	F
+Horrible Creatures	J
+Fabulous Treasure	E
+
+Repentant Ne'er-do-well	D
+Lovesick Soldier	L
+Crafty Hag	C
+Merry Brigands	I
+Mild Storm	F
+Unknown Beast	J
+Unknown Beast	J
+Mysterious River	F
+Ghostly Beast	J
+Hungry Gooleh	I
+House Fire	F
+Mysterious Trapdoor	E
+
+Destitute Hag	C
+Enchanted Soldier	L
+Imprisoned Maiden	L
+Repentant Merchant	D
+Imprisoned Prince	A
+Minor Treasure	E
+Glittering Artifact	E
+Glittering Artifact	E
+Magical Storm	F
+Lovesick ‘Efreeteh	M
+Trapped ‘Efreet	M
+Angry ‘Efreet	M
+
+Repentant Merchant	D
+Flying Creatures	J
+Dark River	F
+Ghostly Beast	J
+Hungry Creatures	J
+Dark Creatures	J
+Horrible Creatures	J
+Flying Creatures	J
+Egg of Roc	J
+Bumbling Wizard	B
+Evil Enchantress	B
+Noble ‘Efreet	M
+
+Heart-rending Hag	C
+Disguised Dervish	L
+Friendly Princess	A
+Sad Gooleh	I
+Sand Storm	F
+Small Artifact	E
+Egg of Roc	J
+Mysterious River	F
+Multitudinous Brigands	I
+Mysterious Trapdoor	E
+Glittering Artifact	E
+Wonderful Artifact	E
+
+Old Man	I
+Impudent Beggar	C
+Runaway Slave	D
+Destitute Merchant	L
+Imprisoned Prophet	A
+Sad Gooleh	I
+Malicious Merman	I
+Mysterious River	F
+Horrible Creatures	J
+Dark Creatures	J
+Ancient City	E
+Wonderful Artifact	E
+
+Repentant Merchant	D
+Runaway Slave	D
+Wicked Beggar	C
+Greedy Thief	D
+Garrulous Dervish	L
+Fine Beast	J
+Dark River	F
+Horrible Creatures	J
+Demonic ‘Efreeteh	M
+Secret Trapdoor	E
+Hidden City	E
+Wonderful Artifact	E
+
+House Fire	F
+Hypnotic Hag	C
+Fine Beast	J
+Strange Customs	I
+Unknown Beast	J
+Imprisoned Princess	A
+Bloodthirsty Brigands	I
+Mighty Wizard	O
+Secret Trapdoor	E
+Glittering Artifact	E
+Guarded Treasure	E
+Wonderful Artifact	E
+
+Adulterous Ne’er-do-well	D
+Friendly Beggar	C
+Healer Sage	A
+Merry Brigands	I
+Mystic Fire	F
+Crafty Enchantress	O
+Mysterious River	F
+Glittering Artifact	E
+Jeweled Trapdoor	E
+Jeweled Trapdoor	E
+Bloodthirsty Brigands	I
+Wonderful Artifact	E
+
+Friendly Merman	I
+Friendly Merman	I
+Fearful Captain	I
+Treacherous Shoals	F
+Malicious Merman	I
+Mad Captain	I
+Black Whirlpool	F
+Greedy Captain	I
+Greedy Captain	I
+Friendly Merman	I
+Huge Whirlpool	F
+Black Whirlpool	F
+
+Destitute Thief	D
+Wicked Prophet	A
+Sand Storm	F
+Sand Storm	F
+Multitudinous Brigands	I
+Multitudinous Brigands	I
+Egg of Roc	J
+Horrible Creatures	J
+Mysterious Trapdoor	E
+Ruined City	E
+Fabulous Treasure	E
+Wonderful Artifact	E
+
+Repentant Ne’er-do-well	D
+Wicked Hunchback	C
+False Sage	A
+Wicked Dervish	L
+Friendly Merman	I
+Mild Storm	F
+Strange Customs	I
+Strange Customs	I
+Fearful Captain	I
+Mysterious River	F
+Black Whirlpool	F
+Wonderful Artifact	E
+
+Lovesick Beggar	C
+Foolish Slave	D
+Lost Dervish	L
+False Prophet	A
+Mild Storm	F
+Con Game	I
+Wicked Vizier	I
+House Fire	F
+Bloodthirsty Brigands	I
+Horrible Creatures	J
+Jeweled Trapdoor	E
+Wonderful Artifact	E
+
+Lovesick Hunchback	C
+Lonely Soldier	L
+Foolish Thief	D
+Small Artifact	E
+Rock Slide	F
+Sad Gooleh	I
+Strange Customs	I
+Enchanted Beast	J
+Flying Creatures	J
+Black River	F
+Guarded Treasure	E
+Wonderful Artifact	E
+
+Happy Ne’er-do-well D
+Dangerous Beggar	C
+Foolish Princess	A
+Friendly Merman	I
+Beautiful Shoals	F
+Malicious Merman	I
+Fearful Captain	I
+Treacherous Shoals	F
+Hungry Creatures	J
+Small Artifact	E
+Huge Whirlpool	F
+Huge Whirlpool	F
+
+Fine Beast	J
+Enchanted Beast	J
+Sad Gooleh	I
+Talking Beast	J
+Hungry Creatures	J
+Egg of Roc	J
+Ancient City	E
+Hidden City	E
+Bloodthirsty Wizard	O
+Noble Enchantress	B
+Lovesick ‘Efreeteh	M
+Kindly ‘Efreet	M
+
+Drunken Slave	D
+Insane Beggar	C
+Garrulous Maiden	L
+Vengeful Sage	A
+Runaway Slave	D
+Merry Brigands	I
+Hungry Gooleh	I
+Unknown Beast	J
+Dark River	F
+Demonic ‘Efreet	M
+Fabulous Treasure	E
+Guarded Treasure	E
+
+Destitute Sage	A
+Wise Thief	D
+Insane Hunchback	C
+Enchanted Soldier	L
+Mild Storm	F
+Strange Customs	I
+Wicked Vizier	I
+Trapped ‘Efreet	M
+Mysterious Trapdoor	E
+Glittering Artifact	E
+Fabulous Treasure	E
+Fabulous Treasure	E
+
+Lovesick Slave	D
+Foolish Maiden	L
+Insane Hag	C
+Vengeful Princess	A
+Rock Slide	F
+Ghostly Beast	J
+Dark River	F
+Bloodthirsty Brigands	I
+Secret Trapdoor	E
+Ruined City	E
+Magical Storm	F
+Wonderful Artifact	E
+
+Wise Slave	D
+Dying Hunchback	C
+Healer Sage	A
+Mild Storm	F
+Puissant Soldier	L
+Friendly Merman	I
+Greedy Captain I 
+Malicious Merman	I
+Bloodthirsty Brigands	I
+Terrible Storm	F
+Huge Whirlpool	F
+Hidden City	E
+
+Lovesick Hag	C
+Disguised Slave	D
+Sad Gooleh	I
+Dark Creatures	J
+Minor Treasure	E
+Horrible Creatures	J
+Small Artifact	E
+Ghostly Beast	J
+Flying Creatures	J
+Crafty Wizard	O
+Bloodthirsty Enchantress	O
+Trapped ‘Efreet	M
+
+Wise Slave	D
+Lost Soldier	L
+Disguised Hunchback	C
+Mild Storm	F
+Wealthy Merchant	D
+Merry Brigands	I
+Dark River	F
+Sad Gooleh	I
+Strange Artifact	E
+Mysterious Trapdoor	E
+Ancient City	E
+Wonderful Artifact	E
+
+Toothless Hag	C
+Greedy Thief	D
+Old Man	I
+House Fire	F
+House Fire	F
+Garrulous Prince	A
+Strange Customs	I
+P’Joker Enchantress	O
+Talking Beast	J
+Wicked Vizier	I
+Dark Creatures	J
+Fabulous Treasure	E
+
+Needy Ne’er-do-well	D
+Dangerous Beggar	C
+Mad Maiden	L
+Wise Prince	A
+Mild Storm	F
+Wise Merchant	D
+Mystic Fire	F
+Mystic Fire	F
+Multitudinous Brigands	I
+Horrible Creatures	J
+Glittering Artifact	E
+Glittering Artifact	E
+
+Busy Slave	D
+Destitute Merchant	L
+Insane Beggar	C
+Healer Sage	A
+Lonely Maiden	L
+Merry Brigands	I
+Unknown Beast	J
+Flying Creatures	J
+Mysterious River	F
+Demonic ‘Efreet	M
+Glittering Artifact	E
+Wonderful Artifact	E
+
+Mild Storm	F
+Flying Creatures	J
+Fine Beast	J
+Blind Man	I
+Hungry Creatures	J
+Ghostly Beast	J
+Dark Creatures	J
+Noble Wizard	B
+Mad Enchantress	O
+Lovesick ‘Efreet	M
+Evil ‘Efreeteh	M
+Learned ‘Efreet	M
+
+Foolish Slave	D
+Heart-rending Beggar	C
+Lovesick Maiden	L
+Fine Beast	J
+Con Game	I
+Foolish Prince	A
+Doomsaying Prophet	A
+Wicked Vizier	I
+Talking Beast	J
+Strange Customs	I
+Secret Trapdoor	E
+Wonderful Artifact	E
+
+Ugly Hag	C
+Skillful Thief	D
+Wealthy Merchant	L
+Enchanted Merchant	A
+Malicious Merman	I
+Malicious Merman	I
+Fearful Captain	I
+Treacherous Shoals	F
+Beautiful Enchantress	O
+Huge Whirlpool	F
+Hidden City	E
+Strange Artifact	E
+
+Busy Slave	D
+Wicked Sage	A
+Insane Beggar	C
+Enchanted Sage	A
+Sand Storm	F
+Egg of Roc	J
+Flying Creatures	J
+Flying Creatures	J
+Multitudinous Brigands	I
+Glittering Artifact	E
+Ancient City	E
+Wonderful Artifact	E
+
+Foolish Soldier	L
+Runaway Ne’er-do-well	D
+Old Man	I
+Enchanted Hunchback	C
+Friendly Merchant	A
+Sad Gooleh	I
+Talking Beast	J
+Hidden City	E
+Mystic Fire	F
+Black Whirlpool	F
+Black Whirlpool	F
+Mysterious Trapdoor
+
+Heart-rending Hag	C
+Handsome Merchant	A
+Armed Ne’er-do-well	D
+Mild Storm	F
+Dark River	F
+Minor Treasure	E
+Hungry Gooleh	I
+Enchanted Beast	J
+Vengeful ’Efreet	M
+Horrible Creatures	J
+Bloodthirsty Wizard	O
+Strange Artifact	E
+
+Crafty Ne’er-do-well	D
+Minor Treasure	E
+Beautiful Princess	A
+Small Artifact	E
+Glittering Artifact	E
+Guarded Treasure	E
+Strange Artifact	E
+Strange Artifact	E
+Hidden Trapdoor	E
+Ancient City	E
+Angry ‘Efreet	M
+Learned Wizard	B
+
+Adulterous Thief	D
+Mad Soldier	L
+Old Man	I
+Fearful Captain	I
+Beautiful Princess	A
+Greedy Captain	I
+Beautiful Shoals	F
+Minor Treasure	E
+Friendly Merman	I
+Malicious Merman	I
+Small Artifact	E
+Wonderful Artifact	E
+
+Drunken Thief	D
+Mild Storm	F
+Merry Brigands	I
+Hypnotic Beggar	C
+Adulterous Thief	D
+Puissant Soldier	L
+Hungry Gooleh	I
+Cold Enchantress	O
+Dark River	F
+Jeweled Trapdoor	E
+Hidden City	E
+Wonderful Artifact	E
+
+Happy Slave	D
+Crafty Beggar	C
+Mad Sage	A
+Mad Prophet	A
+Con Game	I
+Strange Customs	I
+Vengeful Prince	A
+Destitute Maiden	L
+Whirling Dervish	L
+All-Powerful ‘Efreeteh	M
+Lovesick ‘Efreet	M
+Beautiful Enchantress	O
+
+Foolish Thief	D
+Wicked Beggar	C
+Lonely Maiden	L
+Mild Storm	F
+Wealthy Princess	A
+Mystic Fire	F
+Bloodthirsty Brigands	I
+Beautiful Maiden	L
+Mysterious River	F
+Ancient City	E
+Terrible Storm	F
+Wonderful Artifact	E
+
+Flying Creatures	J
+Bloodthirsty Brigands
+Unknown Beast	J
+Unknown Beast	J
+Dark Creatures	J
+Small Artifact	E
+Guarded Treasure	E
+Glittering Artifact	E
+Hidden City	E
+Ruined City	E
+Noble ‘Efreet	M
+Powerful Wizard	B
+
+Destitute Hunchback	C
+Friendly Prophet	A
+Mad Ne’er-do-well	D
+Whirling Dervish	L
+House Fire	F
+Con Game	I
+Strange Customs	I
+Wicked Vizier	I
+Cold Enchantress	O
+Fine Beast	J
+Fine Beast	J
+Wonderful Artifact	E
+
+Impudent Hunchback	C
+Wicked Ne’er-do-well	D
+Ha																																																																																																																																																																																																																																															�																																																																																																																													or																																																																										ns																																																																								l
+Powerful Slave	D
+Lovesick Maiden	L
+Mad Prophet	A
+Rock Slide	F
+Strange Customs	I
+Strange Customs	I
+Terrible Storm	F
+Magical Storm	F
+Magical Storm	F
+Bumbling Enchantress	B
+Enchanted Beast	J
+
+Mild Storm	F
+Blind Man	I
+Rock Slide	F
+Mysterious River	F
+Unknown Beast	J
+Strange Artifact	E
+Crafty Wizard	O
+Cold Enchantress	O
+Mysterious Trapdoor	E
+Enchanted Beast	J
+Ruined City	E
+Wonderful Artifact	E
+
+Drunken Ne’er-do-well	D
+Lost Prophet	A
+Dangerous Hag	C
+Powerful Dervish	L
+Mad Captain	I
+Bloodthirsty Enchantress	O
+Unknown Beast	J
+Demonic ‘Efreeteh	M
+Beautiful Shoals	F
+Black Whirlpool	F
+Huge Whirlpool	F
+Wonderful Artifact	E
+
+Lovesick Soldier	L
+Lost Maiden	L
+Disguised Slave	D
+Egg of Roc	J
+Lost Prince	A
+Lonely Princess	A
+Ghostly Beast	J
+Evil Enchantress	B
+Flying Creatures	J
+Cold Wizard	O
+Fabulous Treasure	E
+Wonderful Treasure	E
+
+Armed Slave	D
+Mild Storm	F
+Puissant Soldier	L
+Merry Brigands	I
+Multitudinous Brigands	I
+Beautiful Enchantress	O
+Guarded Treasure	E
+Terrible Storm	F
+Magical Storm	F
+Friendly Merman	I
+Talking Beast	J
+Black Whirlpool	F
+
+Lonely Soldier	L
+Friendly Beggar	C
+Foolish Thief	D
+Garrulous Sage	A
+Kindly Merchant	B
+Egg of Roc	J
+Sand Storm	F
+Hungry Creatures	J
+Mysterious River	F
+Unknown Beast	J
+Secret Trapdoor	E
+Wonderful Artifact	E
+
+Mild Storm	F
+Wicked Vizier	I
+Mad Captain	I
+Friendly Merman	I
+Strange Customs	I
+Dark River	F
+Mad Enchantress	O
+Beautiful Shoals	F
+Mysterious Trapdoor	E
+Strange Artifact	E
+Ruined City	E
+Wonderful Artifact	E
+
+Old Man	I
+Wealthy Merchant	D
+Mild Storm	F
+Rock Slide	F
+Hungry Creatures	J
+Sad Gooleh	I
+Ghostly Beast	J
+Wise Sage	A
+Trapped ‘Efreet	M
+Mad Wizard	O
+Practical Joker Enchantress	O
+All-Powerful ‘Efreeteh	M
+
+Destitute Thief	D
+Dying Beggar	C
+Mild Storm	F
+Handsome Prince	A
+Malicious Merman	I
+Greedy Captain	I
+Beautiful Shoals	F
+Mad Captain	I
+Huge Whirlpool	F
+Terrible Storm	F
+Ruined City	E
+Ruined City	E
+
+Toothless Hag	C
+Disguised Slave	D
+Blind Man	I
+Egg of Roc	J
+Foolish Prince	A
+Sad Gooleh	I
+Multitudinous Brigands	I
+Mystic Fire	F
+Enchanted Beast	J
+All-Powerful ‘Efreet	M
+Strange Artifact	E
+Hidden City	E
+
+Kindly	B
+Bumbling	B
+Needy	B
+Needy	B
+Disguised	B
+Trapped	B
+Mad	B
+Mad	B
+Evil	B
+Vengeful	B
+Doomed	B
+Mighty	B
+
+Lonely	A
+Garrulous	A
+Destitute	A
+Foolish	A
+Friendly	A
+Imprisoned	A
+Disguised	A
+Mad	A
+Vengeful	A
+Wicked	A
+Enchanted	A
+Enchanted	A
+
+Friendly	C
+Friendly	C
+Destitute	C
+Impudent	C
+Ugly	C
+Disguised	C
+Crafty	C
+Dying	C
+Possessed	C
+Wicked	C
+Dangerous	C
+Powerful	C
+
+Friendly	A
+Foolish	A
+Destitute	A
+Handsome	A
+Disguised	A
+Wealthy	A
+Imprisoned	A
+Mad	A
+Vengeful	A
+Vengeful	A
+Wicked	A
+Powerful	A
+
+Kindly	B
+Needy	B
+Bumbling	B
+Bumbling	B
+Lovesick	B
+Disguised	B
+Crafty	B
+Vengeful	B
+Evil	B
+Powerful	B
+Mighty	B
+Mighty	B
+
+Friendly	A
+Foolish	A
+Garrulous	A
+Destitute	A
+False	A
+Disguised	A
+Wise	A
+Imprisoned	A
+Enchanted	A
+Wicked	A
+Mad	A
+Powerful	A
+
+Toothless	C
+Destitute	C
+Dying	C
+Diseased	C
+Diseased	C
+Enchanted	C
+Crafty	C
+Possessed	C
+Hypnotic	C
+Hideous	C
+Insane	C
+Dangerous	C
+
+Happy	D
+Foolish	D
+Greedy	D
+Drunken	D
+Drunken	D
+Disguised	D
+Crafty	D
+Crafty	D
+Disguised	D
+Armed	D
+Mad	D
+Wicked	D
+
+Friendly	A
+Foolish	A
+Destitute	A
+Lonely	A
+Disguised	A
+Wealthy	A
+Vengeful	A
+Wicked	A
+Mad	A
+Mad	A
+Enchanted	A
+Powerful	A
+
+Kindly	M
+Kindly	M
+Trapped	M
+Lovesick	M
+Lovesick	M
+Vengeful	M
+Evil	M
+Evil	M
+Noble	M
+Learned	M
+Demonic	M
+All-Powerful	M
+
+Kindly	B
+Lovesick	B
+Bumbling	B
+Noble	B
+Evil	B
+Crafty	B
+Disguised	B
+Vengeful	B
+Mad	B
+Doomed	B
+Mighty	B
+All-Powerful	B
+
+Happy	D
+Needy	D
+Greedy	D
+Foolish	D
+Foolish	D
+Lovesick	D
+Disguised	D
+Disguised	D
+Crafty	D
+Armed	D
+Mad	D
+Wicked	D
+
+Friendly	A
+Foolish	A
+Destitute	A
+False	A
+Garrulous	A
+Wise	A
+Imprisoned	A
+Vengeful	A
+Mad	A
+Mad	A
+Doomsaying	A
+Powerful	A
+
+Friendly	A
+Foolish	A
+Destitute	A
+Wise	A
+Imprisoned	A
+Healer	A
+Healer	A
+Healer	A
+Vengeful	A
+Mad	A
+Wicked	A
+Powerful	A
+
+Impudent	C
+Dying	C
+Diseased	C
+Crafty	C
+Disguised	C
+Wicked	C
+Hypnotic	C
+Hideous	C
+Hideous	C
+Enchanted	C
+Dangerous	C
+Powerful	C
+
+Friendly	C
+Impudent	C
+Ugly	C
+Destitute	C
+Disguised	C
+Drunken	C
+Lovesick	C
+Dying	C
+Diseased	C
+Heart-rending	C
+Possessed	C
+Insane	C
+
+Friendly	A
+Handsome	A
+Lonely	A
+Lovesick	A
+Disguised	A
+Imprisoned	A
+Wealthy	A
+Enchanted	A
+Mad	A
+Wicked	A
+Wicked	A
+Powerful	A
+
+Destitute	C
+Drunken	C
+Diseased	C
+Impudent	C
+Dying	C
+Heart-rending	C
+Crafty	C
+Insane	C
+Wicked	C
+Enchanted	C
+Hypnotic	C
+Powerful	C
+
+Happy	D
+Wise	D
+Skillful	D
+Drunken	D
+Wealthy	D
+Repentant	D
+Armed	D
+Crafty	D
+Greedy	D
+Wicked	D
+Powerful	D
+Powerful	D
+
+Wise	D
+Needy	D
+Busy	D
+Drunken	D
+Runaway	D
+Armed	D
+Crafty	D
+Adulterous	D
+Mad	D
+Wicked	D
+Wicked	D
+Powerful	D
+
+Happy	D
+Destitute	D
+Lovesick	D
+Foolish	D
+Wealthy	D
+Armed	D
+Disguised	D
+Greedy	D
+Adulterous	D
+Crafty	D
+Wicked	D
+Wicked	D
+
+Friendly	A
+Lost	A
+Beautiful	A
+Imprisoned	A
+Destitute	A
+Disguised	A
+Wealthy	A
+Enchanted	A
+Vengeful	A
+Wicked	A
+Mad	A
+Powerful	A
+
+Friendly	A
+Lonely	A
+Lovesick	A
+Beautiful	A
+Beautiful	A
+Lost	A
+Imprisoned	A
+Disguised	A
+Vengeful	A
+Wicked	A
+Powerful	A
+Powerful	A
+
+Friendly	A
+Lovesick	A
+Beautiful	A
+Beautiful	A
+Wealthy	A
+Wealthy	A
+Lost	A
+Imprisoned	A
+Mad	A
+Wicked	A
+Enchanted	A
+Powerful	A
+
+Kindly	B
+Needy	B
+Bumbling	B
+Self-Sacrificial	B
+Beautiful	B
+Noble	B
+Learned	B
+Disguised	B
+Crafty	B
+Mad	B
+Evil	B
+Powerful	B
+
+Kindly	B
+Bumbling	B
+Beautiful	B
+Noble	B
+Disguised	B
+Crafty	B
+Doomed	B
+Vengeful	B
+Mad	B
+Evil	B
+Powerful	B
+Mighty	B
+
+Kindly	M
+Lovesick	M
+Beautiful	M
+Trapped	M
+Vengeful	M
+Evil	M
+Evil	M
+Noble	M
+Noble	M
+Learned	M
+Demonic	M
+All-Powerful	M
+
+Kindly	B
+Bumbling	B
+Lovesick	B
+Beautiful	B
+Beautiful	B
+Vengeful	B
+Vengeful	B
+Mad	B
+Evil	B
+Mighty	B
+Mighty	B
+All-Powerful	B
+
+Kindly	M
+Learned	M
+Learned	M
+Lovesick	M
+Trapped	M
+Trapped	M
+Angry	M
+Demonic	M
+Evil	M
+Vengeful	M
+All-Powerful	M
+All-Powerful	M
+
+Lovesick	M
+Lovesick	M
+Trapped	M
+Trapped	M
+Angry	M
+Kindly	M
+Demonic	M
+Vengeful	M
+Evil	M
+Noble	M
+Noble	M
+All-Powerful	M
+
+Angry	M
+Lovesick	M
+Trapped	M
+Beautiful	M
+Beautiful	M
+Noble	M
+Learned	M
+Learned	M
+Vengeful	M
+Kindly	M
+Evil	M
+All-Powerful	M
+
+Kindly	M
+Kindly	M
+Beautiful	M
+Noble	M
+Noble	M
+All-Powerful	M
+All-Powerful	M
+Vengeful	M
+Lovesick	M
+Evil	M
+Demonic	M
+Trapped	M
+
+Ape Island	N
+Barber	N
+Crystal Palace	N
+Dendan	N
+Elephant	N
+Elephant's Graveyard	N
+Islands of Camphor	N
+Lion	N
+Magnetic Mountain	N
+Palace of 100 Closets	N
+Pavillion of the Black Giant	N
+Pearl Diving	N
+Rhino	N
+Serpent	N
+Sex-Change Spring	N
+Valley of Dogs	N
+Volcano	N
+Warfleet	N
+
